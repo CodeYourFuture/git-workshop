@@ -19,15 +19,13 @@ After this session, learners should be able to:
 - *Define* a git commit
 - *List* the different versions of a Git project
 - *Identify* the metadata for an arbitrary commit in a timeline
-- Checkout the files and folders in a given commit
-- Define the staging area
-- Explain the purpose of the staging area 
-- Explain 
-- Add changes in the working directory to the staging area using an appropriate Git porcelain command
-- Explain the difference between `git commit` and `git add`
-- Create a new branch using the Git porcelain commands
-- Switch between branches in a Git project using Git porcelain commands
-- Create
+- *Checkout* the files and folders in a given commit
+- *Define* the staging area
+- *Explain* the purpose of the staging area 
+- *Add* changes in the working directory to the staging area using an appropriate Git porcelain command
+- *Explain* the difference between `git commit` and `git add`
+- *Create* a new feature branch using the Git porcelain commands
+- *Switch* between branches in a Git project using Git porcelain commands 
 
 You'll need to work on this project in pairs.
 
