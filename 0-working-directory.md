@@ -1,6 +1,6 @@
 # Working directory ( aka Working tree 🌴 )
 
-❓ Q: Which of the descriptions below best describes the **working directory** in a Git project?
+❓ Which of the descriptions below best describes the **working directory** in a Git project?
 
 a) A set of histories\
 b) The files and folders we can currently view and edit in our project\
@@ -11,15 +11,15 @@ d) a list of messages about the changes in our project
 
 ## Listing files and directories
 
-❓ Q: How many files are there in the working directory ( including all sub-directories )?\
+❓ How many files are there in the working directory ( including all sub-directories )?\
 Try to find a CLI command for this.\
 {YOUR ANSWER HERE}
 
-❓ Q: How many `.md` markdown files are there in the working directory?\
+❓ How many `.md` markdown files are there in the working directory?\
 Try to find a CLI command for this.\
 {YOUR ANSWER HERE}
 
-❓ Q: How many `.js` Javascript files are there in the working directory?\
+❓ How many `.js` Javascript files are there in the working directory?\
 Try to find a CLI command for this.\
 {YOUR ANSWER HERE}
 

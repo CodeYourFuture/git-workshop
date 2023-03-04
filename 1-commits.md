@@ -1,6 +1,6 @@
 # Taking snapshots 📷
 
-❓ Q1 Which of the following statements describes a **commit**?
+❓ Which of the following statements describes a **commit**?
 
 a) A group of changes for a certain set of files or directories
 b) A snapshot of files and folders at a given point in time
@@ -17,16 +17,16 @@ We can use the `git log` to list all the commits for a particular project.
 
 Use the `git log` command to answer the following:
 
-❓ Q2: How many git commits are there in the history of this project?
+❓ How many git commits are there in the history of this project?
 {YOUR ANSWER HERE}
 
-❓ Q3: What is the commit hash of the **initial commit**?
+❓ What is the commit hash of the **initial commit**?
 {YOUR ANSWER HERE}
 
-❓ Q4: What time was the most recent commit created?
+❓ What time was the most recent commit created?
 {YOUR ANSWER HERE}
 
-❓ Q5: What time was the commit with message "add test script for slideshows" created?
+❓ What time was the commit with message "add test script for slideshows" created?
 {YOUR ANSWER HERE}
 
 Now in our mental model we have the concept of a **working directory**, a **commit** and a **history timeline** ( a series of commits in the working directory. )

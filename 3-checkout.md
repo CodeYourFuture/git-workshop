@@ -49,11 +49,11 @@ Now write down the commit hash fo the git commit with message "update deps and t
 
 More questions:
 
-❓ Q: How many lines are there in the `quotes.test.js`?
+❓ How many lines are there in the `quotes.test.js`?
 
 🏃 Invoke the test suite in this file using the test script provided in the `package.json`
 
-❓ Q: What warning(s) do you see?
+❓ What warning(s) do you see?
 
 Can you fix the warnings? **harder
 
