@@ -8,6 +8,27 @@ This workshop serves several purposes:
 - Consolidate existing knowledge of Git
 - Practice use of CLI skills for Git
 
+
+## Learning objects
+
+After this session, learners should be able to:
+
+
+- *Define* the working tree
+- *List* a subset of files and directories in a working directory according to some criteria
+- *Define* a git commit
+- *List* the different versions of a Git project
+- *Identify* the metadata for an arbitrary commit in a timeline
+- Checkout the files and folders in a given commit
+- Define the staging area
+- Explain the purpose of the staging area 
+- Explain 
+- Add changes in the working directory to the staging area using an appropriate Git porcelain command
+- Explain the difference between `git commit` and `git add`
+- Create a new branch using the Git porcelain commands
+- Switch between branches in a Git project using Git porcelain commands
+- Create
+
 You'll need to work on this project in pairs.
 
 - You can assign one person to be "Person 1"
