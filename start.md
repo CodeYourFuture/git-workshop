@@ -1,8 +1,8 @@
 # Git workshop
 
-Preview me!
+Preview me! Ctrl + Shift + V
 
-This workshop serves several purposes:
+This workshop serves several overarching aims:
 
 - Build a strong **mental model** for Git
 - Consolidate existing knowledge of Git
@@ -27,12 +27,13 @@ After this session, learners should be able to:
 - *Create* a new feature branch using the Git porcelain commands
 - *Switch* between branches in a Git project using Git porcelain commands 
 
+
+## Setup
+
 You'll need to work on this project in pairs.
 
 - You can assign one person to be "Person 1"
 - You can assign another person to be "Person 2"
-
-## Setup
 
 Person 1 will need to **clone down this repo**. Keep it on your machine. Person 1 you're in charge of reading the instructions in this repo. You'll need to start at `0-working-directory.md`
 
