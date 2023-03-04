@@ -10,8 +10,7 @@ So, given our **working directory**, **timeline** - we might be asking:
 
 Let's make a change to the current working directory or working tree.
 
-🏃 Open up this project in VSCode (if you've not done so already)
-
+🏃 Open up this project in VSCode (if you've not done so already)\
 🏃 Open up the `package.json` in the file editor.
 
 The name property in the `package.json` is out of date.
@@ -59,8 +58,8 @@ In order to do this, we store the updated/new/deleted files in the staging area.
 
 🖊️ Write down what you think `git status` is doing.
 
-ℹ️ You can run the command `git status --help` in order to work this out.
-👓 Look carefully at the output from this command. 
+ℹ️ You can run the command `git status --help` in order to work this out.\
+👓 Look carefully at the output from this command.\
 ❓ What do you think it is telling you?
 
 Goal:
