@@ -2,11 +2,11 @@
 
 Let's remind ourselves what the commit history looks like:
 
-![git-log-output](./git-log-output.png)
+![git-log-output](./assets/git-log-output.png)
 
 Now what is `HEAD` ?
 
-![HEAD](./HEAD.png)
+![HEAD](./assets/HEAD.png)
 
 `HEAD` also points to a commit. `HEAD` points to `main` and `main` points to `51a645a`
 

@@ -4,7 +4,7 @@ We're going to add a few more concepts.
 
 Let's look at the history of the project:
 
-![git-log-output](./git-log-output.png)
+![git-log-output](./assets/git-log-output.png)
 
 Now it may be natural to ask: **Can we go back to a previous point in the timeline?** 
 Or, in other words, can we load the files and folders from a previous commit into our file system.
