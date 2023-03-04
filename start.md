@@ -57,8 +57,4 @@ This workshop is designed to be a bit tricky and mysterious on purpose: but hope
 - 🏃 - Run a command
 
 
-
-
-
-
 Start here 👉 [Starting point](./0-working-directory.md)
