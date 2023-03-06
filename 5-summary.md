@@ -7,6 +7,7 @@ In a git project, we have our **working directory**. Whenever we open a project 
 We have git **commits** - these are snapshots of some of our files and folders in our project at a given moment in time.
 
 And in Git we build up a timeline of commits that looks like something like this:
+
 ![timeline-sample](./assets/timeline-sample.png)
 
 So in our mental model have 2 areas or states
