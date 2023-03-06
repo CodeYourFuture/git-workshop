@@ -13,7 +13,7 @@ Explain your answer.
 
 ## Introducing `git log` 📚 🗣️
 
-We can use the `git log` to list all the commits for a particular project.
+We can use the `git log` command to list all the commits for a particular project.
 
 Use the `git log` command to answer the following:
 
