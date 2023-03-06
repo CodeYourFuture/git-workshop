@@ -2,9 +2,9 @@
 
 ❓ Which of the following statements describes a **commit**?
 
-a) A group of changes for a certain set of files or directories
-b) A snapshot of files and folders at a given point in time
-c) A history of all the changes for a set of files and directories
+a) A group of changes for a certain set of files or directories\
+b) A snapshot of files and folders at a given point in time\
+c) A history of all the changes for a set of files and directories\
 d) A message describing a recent change that was applied to a file
 
 {YOUR ANSWER HERE}
